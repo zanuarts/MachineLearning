@@ -2,4 +2,4 @@
 Belajar Pemrograman Machine Learning
 <br>
 Resource : Dicoding Academy
-Course : https://www.dicoding.com/academies/185
+<br>Course : https://www.dicoding.com/academies/185
